@@ -1,0 +1,166 @@
+.title{
+    background-color: rgb(253, 107, 107);
+   width: 471px;
+    position: absolute;
+    left: 199px;
+   top: 208px;
+border: 5px solid rgba(0, 69, 255, 1);
+}
+
+.Christmas{
+ background-color:rgb(59, 255, 241);
+  width: 916px;
+  height: 889px;
+ overflow: hidden;
+ margin:auto;
+ position:relative;
+ top:50px;
+border: 5px solid rgba(255, 0, 0, 0.99);
+}
+
+.brief{
+     background-color: #01ffaf;
+    width: 573px;
+    position: absolute;
+    left: 137px;
+    top: 417px;
+}
+.date{
+     background-color: aquamarine;
+    width: 172px;
+    position: absolute;
+    left: 39px;
+    top: 638px;
+    }
+.location{
+    background-color: aquamarine;
+    width: 271px;
+    position: absolute;
+    left: 294px;
+    top: 758px;  
+}
+.img{
+     position: absolute;
+    left: 55px;
+    top: 734px;  
+ }
+.pic{
+ position: absolute;
+    left: 269px;
+    top: 486px;  
+ }
+.last{
+ position: absolute;
+    left: 4px;
+    top: 1px;  
+}
+.my{
+ position: absolute;
+    left: 723px;
+    top: 11px;
+}
+.red{
+ position: absolute;
+    left: 670px;
+    top: 605px;
+    width: 212px;
+}
+.blue{
+  position: absolute;
+ left: 4px;
+    top: 193px; 
+}
+.hi{
+  position: absolute;
+ left: 831px;
+    top: 206px; 
+}
+.now{
+ position: absolute;
+ left: 91px;
+    top: 480px; 
+}
+.ok{
+  position: absolute;
+ left: 221px;
+    top: 480px; 
+}
+.snow{
+  position: absolute;
+ left: 515px;
+    top: 477px; 
+}
+.orb{
+ position: absolute;
+ left: 614px;
+    top: 480px; 
+}
+.ship{
+ position: absolute;
+    left: 52px;
+    top: 111px;  
+}
+.loss{
+ background-color:rgb(59, 255, 241);
+  width: 838px;
+  height: 890px;
+ overflow: hidden;
+ margin:auto;
+ position:relative;
+ top:26px;
+border: 5px solid rgba(255, 0, 0, 0.99);
+}
+.ko{ 
+      background-color:green;
+    width: 254px;
+    position: absolute;
+    left: 22px;
+    top: 614px;
+   font-size: 24px;
+   color:white
+}
+.and{
+      background-color: #0121ff;
+    width: 391px;
+    position: absolute;
+    left: 4px;
+    top: 691px;
+  font-size: 25px;
+   color:#ff0000;
+   font: bold; 
+}
+.up{
+  background-color: #8B1E24;
+    width: 501px;
+    position: absolute;
+    left: 3px;
+    top: 767px;
+  font-size: 24px;
+ color: #FFDFA0    
+}
+
+.Title{
+     background-color: #FFF5E6;
+   width: 407px;
+    position: absolute;
+    left: 190px;
+   top: 9px;
+border: 5px solid rgba(0, 69, 255, 1);
+ color:#245C3A
+}
+.mop{
+ position: absolute;
+    left: 549px;
+    top: 639px;
+}
+.Here{
+  position: absolute;
+    left: 324px;
+    top: 1px; 
+}
+.final{
+ position: absolute;
+    left: 283px;
+    top:828px;
+    width: 345px
+}
